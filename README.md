@@ -3,9 +3,11 @@
 Analyzing the data to understand a few nuances of the 2019 Lok Sabha elections-
 
 Theme 1: Global
+
 1.1) What is the count of the educational qualification of the candidates?
 
 Theme 2: Party Level
+
 2.1) Name the top 5 parties with maximum winners. Also, state the count of winners from each of them.
 
 2.2) Find the Male: Female ratio in the top 5 parties which have the maximum number of winners.
